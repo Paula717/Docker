@@ -29,7 +29,7 @@ Escribimos Caracteristicas de Windows.</cite>
 
 <cite style="display:block; text-align: justify"> Una vez activado Hyper-V y reiniciado el equipo el siguiente paso será dirigirnos a la [pagina oficial de Docker][1_0] para descargarnos la versión Docker Desktop.</cite>
 
-![instalacion](img_Instalacion/img03.png)
+![instalacion](img_Instalacion/img04.png)
 
 [1_0]:https://www.docker.com/
 
