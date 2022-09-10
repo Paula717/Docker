@@ -98,6 +98,24 @@ ________________________________________________________________________________
 
 ![Docker](img_Instalacion/img17.png)
 
+<cite style="display:block; text-align: justify"> Ahora nos dirigimos a la parte superior donde esta una lupa para buscar la imagen que queramos instalar.</cite>
+
+![Docker](img_Instalacion/img18.png)
+
+<cite style="display:block; text-align: justify"> En este caso vamos a instalar la imagen de httpd, damos click en ella y ahora para instalarla debemos iniciar nuestro terminal de Ubuntu, copiamos el codigo que tenemos arriba a la derecha en nuestra terminal de Ubuntu.</cite>
+
+![Docker](img_Instalacion/img20.png)
+
+![Docker](img_Instalacion/img21.png)
+
+<cite style="display:block; text-align: justify"> Una ves instalada nuestra imagen, verificamos con el comando "docker images" el cual nos va a mostrar las imagenes que tenemos instaladas en nuestro Docker y entre ellas debe estar la que acabamos de instalar que seria la de httpd.</cite>
+
+![Docker](img_Instalacion/img22.png)
+
+![Docker](img_Instalacion/img23.png)
+
+
+
 # Mas Información
 * [Instalar Docker en Windows 10][2_1]
 * [Docker oficial][2_2]
