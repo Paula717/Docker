@@ -108,6 +108,13 @@ ________________________________________________________________________________
 
 ![Docker](img_Instalacion/img21.png)
 
+<cite style="display:block; text-align: justify"> Una ves instalada nuestra imagen, verificamos con el comando "docker images" el cual nos va a mostrar las imagenes que tenemos instaladas en nuestro Docker y entre ellas debe estar la que acabamos de instalar que seria la de httpd.</cite>
+
+![Docker](img_Instalacion/img22.png)
+
+![Docker](img_Instalacion/img23.png)
+
+
 
 # Mas Información
 * [Instalar Docker en Windows 10][2_1]
