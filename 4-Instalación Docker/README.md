@@ -37,7 +37,19 @@ Escribimos Caracteristicas de Windows.</cite>
 
 <cite style="display:block; text-align: justify"> Una vez descargado el instalador, lo ejecutamos.</cite>
 
+![instalacion](img_Instalacion/img05.png)
 
+<cite style="display:block; text-align: justify"> Lo dejamos como esta y le damos en "OK"</cite>
+
+![instalacion](img_Instalacion/img06.png)
+
+<cite style="display:block; text-align: justify"> Comenzara con la descarga e instalación de los paquetes necesarios.</cite>
+
+![instalacion](img_Instalacion/img07.png)
+
+<cite style="display:block; text-align: justify"> Pulsamos en Close and restart para reiniciar el ordenador y finalizar la instalación.</cite>
+
+![instalacion](img_Instalacion/img08.png)
 
 # Mas Información
 * [Instalar Docker en Windows 10][2_1]
