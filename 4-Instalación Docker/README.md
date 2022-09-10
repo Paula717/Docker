@@ -27,11 +27,17 @@ Escribimos Caracteristicas de Windows.</cite>
 
 ![instalacion](img_Instalacion/img03.png)
 
-<cite style="display:block; text-align: justify"> Una vez activado Hyper-V y reiniciado el equipo el siguiente paso será dirigirnos a la [pagina oficial de Docker][1_0] para descargarnos la versión Docker Desktop.</cite>
+<cite style="display:block; text-align: justify"> Una vez activado Hyper-V y reiniciado el equipo el siguiente paso será descargar el instalador de Docker Desktop, para eso nos dirigimos a la pagina de [Docker Docs][1_0], la cual nos proporcionara un enlace directo para descargar [Docker Desktop en Windows][1_1].</cite>
+
+[1_0]:https://docs.docker.com/desktop/install/windows-install/
+
+[1_1]:https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe
 
 ![instalacion](img_Instalacion/img04.png)
 
-[1_0]:https://www.docker.com/
+<cite style="display:block; text-align: justify"> Una vez descargado el instalador, lo ejecutamos.</cite>
+
+
 
 # Mas Información
 * [Instalar Docker en Windows 10][2_1]
