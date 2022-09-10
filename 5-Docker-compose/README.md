@@ -1,5 +1,3 @@
-# <text style = "display:block; text-align: center"> <b>Docker Compose</b>
-
 # <b>¿QUÉ ES DOCKER COMPOSE?</b>
 
 <cite style="display:block; text-align: justify">Docker Compose es una herramienta que nos permitirá definir y ejecutar aplicaciones Docker empleando varios contenedores.
