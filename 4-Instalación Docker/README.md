@@ -1,4 +1,4 @@
-# <b>Instalar Docker en Windows 10</b>
+# <text style = "display:block; text-align: center"> <b>Instalar Docker en Windows 10</b>
 
 <b><u>Requisitos minimos</u></b>
 
@@ -80,6 +80,15 @@ Y luego de eso pasara a descargarla.</cite>
 ![instalacion](img_Instalacion/img14.png)
 
 <cite style="display:block; text-align: justify"> Ya tenemos nuestro Docker funcionando y listo para trabajar.</cite>
+
+__________________________________________________________________________________
+# <text style = "display:block; text-align: center"><b>Instalar Imagen de contenedor en la librería Docker Hub</b>
+
+<cite style="display:block; text-align: justify"> Para poder acceder a las imagenes de contenedores de Docker lo primero que debemos hacer sera crearnos una cuenta en [Docker Hub][1_2] (Enlace directo).</cite>
+
+[1_2]:https://hub.docker.com/
+
+![instalacion](img_Instalacion/img15.png)
 
 # Mas Información
 * [Instalar Docker en Windows 10][2_1]
