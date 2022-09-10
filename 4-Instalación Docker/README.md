@@ -88,7 +88,15 @@ ________________________________________________________________________________
 
 [1_2]:https://hub.docker.com/
 
-![instalacion](img_Instalacion/img15.png)
+![Docker](img_Instalacion/img15.png)
+
+<cite style="display:block; text-align: justify"> Una vez creada la cuenta nos pedira que elijamos un plan para comenzar a trabajar con Docker, en nuestro caso elijiremos el plan "Personal".</cite>
+
+![Docker](img_Instalacion/img16.png)
+
+<cite style="display:block; text-align: justify"> Con esto ya podemos buscar la imagen con la cual queremos trabajar.</cite>
+
+![Docker](img_Instalacion/img17.png)
 
 # Mas Información
 * [Instalar Docker en Windows 10][2_1]
