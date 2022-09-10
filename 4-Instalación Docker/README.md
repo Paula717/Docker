@@ -79,6 +79,8 @@ Y luego de eso pasara a descargarla.</cite>
 
 ![instalacion](img_Instalacion/img14.png)
 
+<cite style="display:block; text-align: justify"> Ya tenemos nuestro Docker funcionando y listo para trabajar.</cite>
+
 # Mas Información
 * [Instalar Docker en Windows 10][2_1]
 * [Docker oficial][2_2]
