@@ -114,13 +114,22 @@ ________________________________________________________________________________
 
 ![Docker](img_Instalacion/img23.png)
 
+<cite style="display:block; text-align: justify"> Ahora vamos hacer una prueba de funcionalidad de nuestro contenedor docker con la imagen que instalamos anteriormente, para esto nos vamos nuevamente a nuestra terminal de Ubuntu y digitamos el comando "docker run -it --name" con el nombre "Prueba" seguido del nombre de nuestra imagen instalada "httpd", la cual quedaria así "docker run -it --name Prueba httpd</cite>
 
+![Docker](img_Instalacion/img24.png)
+
+![Docker](img_Instalacion/img25.png)
+
+<cite style="display:block; text-align: justify"> No dirigimos a nuestra App de Docker Desktop y vamos a Donde dice "Containers" en el cual veremos que se ah creado un nuevo contenedor con el nombre de "Prueba" que le pusimos en el terminal de Ubuntu y que esta utilizando la imagen "httpd". Con esto comprobamos que esta funcionando nuestra imagen.</cite>
+
+![Docker](img_Instalacion/img26.png)
 
 # Mas Información
 * [Instalar Docker en Windows 10][2_1]
 * [Docker oficial][2_2]
+* [Docker Hubl][2_3]
 
 
 [2_1]:https://tutorialesit.com/instalar-docker-en-windows-10/
 [2_2]:https://www.docker.com/
-
+[2_3]:https://hub.docker.com/
