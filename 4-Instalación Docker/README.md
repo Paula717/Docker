@@ -51,6 +51,34 @@ Escribimos Caracteristicas de Windows.</cite>
 
 ![instalacion](img_Instalacion/img08.png)
 
+<cite style="display:block; text-align: justify"> Una vez reiniciado el equipo veremos un nuevo icono en nuestro escritorio llamado Docker Desktop, hacemos doble clic en él para iniciar docker.</cite>
+
+![instalacion](img_Instalacion/img09.png)
+
+<cite style="display:block; text-align: justify"> Nos aparecera esta ventana, le daremos en aceptar y se comenzara a ejecutar Docker.</cite>
+
+![instalacion](img_Instalacion/img10.png)
+
+<cite style="display:block; text-align: justify"> Nos aparecerá un tutorial que podremos seguir (son 2 minutos) o bien pasarlo si ya sabemos algo de docker.</cite>
+
+![instalacion](img_Instalacion/img11.png)
+
+<cite style="display:block; text-align: justify"> Una vez terminado el tutorial u omitirlo, nos aparecera esta ventana.
+
+Abriremos nuestra consola de Ubuntu y pararemos a copiar y pegar el comando que nos aparece para intentar correr un contenerdor y asi comprovar que la instalación se realizo de manera exitosa.  </cite>
+
+![instalacion](img_Instalacion/img12.png)
+
+<cite style="display:block; text-align: justify"> Una vez ejecutamos el comando lo primero que nos aparecera sera que la imagen no se encuentra instalada de manera local.
+
+Y luego de eso pasara a descargarla.</cite>
+
+![instalacion](img_Instalacion/img13.png)
+
+<cite style="display:block; text-align: justify"> Ya instalada la imagen podemos ver que en nuestro Docker ya esta instalada la imagen.</cite>
+
+![instalacion](img_Instalacion/img14.png)
+
 # Mas Información
 * [Instalar Docker en Windows 10][2_1]
 * [Docker oficial][2_2]
