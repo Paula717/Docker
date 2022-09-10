@@ -62,10 +62,13 @@ Ya tendríamos nuestro Docker Compose instalado y podemos comprobarlo así:
 
 # Mas Información
 * [Docker Compose][2_1]
+* [ESTRUCTURA DE CONFIGURACIÓN DE UN ARCHIVO DOCKER COMPOSE][2_2]
 
 
 
 [2_1]:https://iescelia.org/ciberseguridad/serie-docker-que-es-docker-compose/
+
+[2_2]:https://iescelia.org/ciberseguridad/serie-docker-estructura-de-configuracion-de-un-archivo-docker-compose/
 
 
 
