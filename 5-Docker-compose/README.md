@@ -55,7 +55,7 @@ Ya tendríamos nuestro Docker Compose instalado y podemos comprobarlo así:
 
 ![Docker_compose](img_Docker-compose/img04.png)
 
-<cite style="display:block; text-align: justify">Ya nos podemos poner a trabajar con Docker Compose, pero deberemos tener en cuenta un aspecto muy importante a la hora de elaborar nuestros ficheros .yml. En ellos deberemos especificar una versión de nuestro fichero Compose, que sea compatible con la versión de Docker que tenemos instalada. </cite>
+<cite style="display:block; text-align: justify">Ya nos podemos poner a trabajar con Docker Compose, pero deberemos tener en cuenta un aspecto muy importante a la hora de elaborar nuestros ficheros .yml. En ellos deberemos especificar una versión de nuestro fichero Compose, que sea compatible con la versión de Docker que tenemos instalada.</cite>
 
 [1_0]:https://docs.docker.com/compose/install/
 
