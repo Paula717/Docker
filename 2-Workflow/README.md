@@ -46,7 +46,7 @@ Con Visual Studio y sus herramientas para Docker, esta tarea solo exige unos cli
 
 <cite style="display:block; text-align: justify">También puede habilitar la compatibilidad con Docker en un proyecto de aplicación web de ASP.NET Core existente haciendo clic con el botón derecho en el proyecto, en el Explorador de soluciones, y seleccionando Agregar>Compatibilidad con Docker...</cite>
 
-![Workflow](img_Workflow/img04.png)
+<div align=center><img src="img_Workflow/img04.png"></div>
 
 <cite style="display:block; text-align: justify">Esta acción agrega un Dockerfile al proyecto con la configuración necesaria y solo está disponible en los proyectos de ASP.NET Core.
 
@@ -116,7 +116,7 @@ Probablemente la mejor manera de comprender las fases es analizar un archivo Doc
 
 El Dockerfile inicial podría ser algo parecido a esto:</cite>
 
-![Workflow](img_Workflow/img05.png)
+<div align=center><img src="img_Workflow/img05.png"></div>
 
 <cite style="display:block; text-align: justify">Y estos son los detalles, línea a línea:
 
@@ -180,7 +180,7 @@ Puede encontrar las imágenes existentes en el repositorio local mediante el com
 
 Para usar un archivo docker-compose.yml, debe crear el archivo en la carpeta de solución principal o raíz, con contenido similar al del ejemplo siguiente:</cite>
 
-![Workflow](img_Workflow/img08.png)
+<div align=center><img src="img_Workflow/img08.png"></div>
 
 [1_0]:https://docs.docker.com/compose/compose-file/
 
@@ -215,19 +215,19 @@ El comando anterior crea una nueva instancia de contenedor a partir de la imagen
 
 <cite style="display:block; text-align: justify">En la mayoría de los escenarios de empresa, una aplicación de Docker se compone de varios servicios, lo que significa que hay que ejecutar una aplicación de varios contenedores</cite>
 
-![Workflow](img_Workflow/img09.png)
+<div align=center><img src="img_Workflow/img09.png"></div>
 
 # <b>Paso 6. Probar la aplicación de Docker con el host local de Docker</b>
 
 <cite style="display:block; text-align: justify">Este paso varía en función de lo que haga la aplicación. En una aplicación web de .NET sencilla implementada como un único contenedor o servicio, puede acceder al servicio si abre un explorador en el host de Docker y va a ese sitio, como se muestra en la imagen (Si la configuración del Dockerfile asigna el contenedor a un puerto del host distinto al 80, incluya el puerto del host en la dirección URL).</cite>
 
-![Workflow](img_Workflow/img10.png)
+<div align=center><img src="img_Workflow/img10.png"></div>
 
 # <b>Flujo de trabajo simplificado al desarrollar contenedores con Visual Studio</b>
 
 <cite style="display:block; text-align: justify">En la práctica, el flujo de trabajo cuando se usa Visual Studio es mucho más sencillo que si se usa el enfoque de editor/CLI. La mayoría de los pasos que necesita Docker relacionados con el Dockerfile y los archivos docker-compose.yml están ocultos o se han simplificado con Visual Studio.</cite>
 
-![Workflow](img_Workflow/img11.png)
+<div align=center><img src="img_Workflow/img011.png"></div>
 
 <cite style="display:block; text-align: justify">Además, debe realizar el paso 2 (agregar compatibilidad con Docker a los proyectos) una sola vez. Por lo tanto, el flujo de trabajo es similar a las tareas de desarrollo habituales cuando se usa .NET para cualquier otro desarrollo. Debe saber qué está sucediendo en segundo plano (el proceso de compilación de imágenes, qué imágenes base usa, la implementación de contenedores, etc.) y, a veces, también debe editar el Dockerfile o el archivo docker-compose.yml para personalizar comportamientos. Pero con Visual Studio se simplifica enormemente la mayor parte del trabajo, lo que mejora mucho la productividad.</cite>
 
@@ -236,7 +236,7 @@ El comando anterior crea una nueva instancia de contenedor a partir de la imagen
 
 <cite style="display:block; text-align: justify">Los contenedores de Windows permiten convertir las aplicaciones de Windows existentes en imágenes de Docker e implementarlas con las mismas herramientas que el resto del ecosistema de Docker. Para usar contenedores de Windows, ejecute comandos de PowerShell en el Dockerfile, como se muestra en el ejemplo siguiente:</cite>
 
-![Workflow](img_Workflow/img12.png)
+<div align=center><img src="img_Workflow/img12.png"></div>
 
 <cite style="display:block; text-align: justify">En este caso se usa una imagen base de Windows Server Core (el valor FROM) y se instala IIS con un comando de PowerShell (el valor RUN). Del mismo modo, también se pueden usar comandos de PowerShell para configurar otros componentes como ASP.NET 4.x, .NET Framework 4.6 o cualquier otro software de Windows. Por ejemplo, el siguiente comando en un Dockerfile configura ASP.NET 4.5
 
