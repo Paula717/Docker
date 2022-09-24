@@ -3,7 +3,7 @@
 <cite style="display:block; text-align: justify">Docker Compose es una herramienta que nos permitirá definir y ejecutar aplicaciones Docker empleando varios contenedores.
 Con Compose haremos uso de un fichero de texto con la extensión YAML en el que realizaremos la configuración de los servicios (imágenes), redes y volúmenes para persistencia de datos que requieran nuestras aplicaciones.</cite>
 
-![Docker_compose](img_Docker-compose/img01.jpeg)
+<div align=center><img src="img_Docker-compose/img01.jpeg"></div>
 
 # <b>¿Qué es un fichero con extensión YAML?</b>
 
@@ -33,7 +33,7 @@ Debemos tener en cuenta que antes de realizar la instalación de Docker Compose,
                         docker --version
 </cite>
 
-![Docker_compose](img_Docker-compose/img02.png)
+<div align=center><img src="img_Docker-compose/img02.png"></div>
 
 <cite style="display:block; text-align: justify">Para realizar la instalación de Docker Compose, lo primero que haremos sera ejecutar el siguiente comando, el cual nos descargará la última versión estable de Docker Compose.
 
@@ -41,7 +41,7 @@ Debemos tener en cuenta que antes de realizar la instalación de Docker Compose,
 
 </cite>
 
-![Docker_compose](img_Docker-compose/img03.png)
+<div align=center><img src="img_Docker-compose/img03.png"></div>
 
 <cite style="display:block; text-align: justify">Una vez descargada, debemos asignarle permisos de ejecución al directorio /usr/local/bin/docker-compose, con el siguiente comando.
 
@@ -53,7 +53,7 @@ Ya tendríamos nuestro Docker Compose instalado y podemos comprobarlo así:
 
 </cite>
 
-![Docker_compose](img_Docker-compose/img04.png)
+<div align=center><img src="img_Docker-compose/img04.png"></div>
 
 <cite style="display:block; text-align: justify">Ya nos podemos poner a trabajar con Docker Compose, pero deberemos tener en cuenta un aspecto muy importante a la hora de elaborar nuestros ficheros .yml. En ellos deberemos especificar una versión de nuestro fichero Compose, que sea compatible con la versión de Docker que tenemos instalada.</cite>
 
