@@ -83,7 +83,7 @@ Los registros Docker (Docker Registry) son los que almacenan imágenes Docker. E
 
 Por defecto, cuando ejecutamos un comando para crear un contenedor, se buscan las imágenes en Docker Hub. Si bien se pueden crear registros privados de imágenes mediante Docker Datacenter (DDC) y Docker Trusted Registry (DTR).</cite>
 
-![Arquitectura DOCKER](img_Arq/img07.jpg) 
+<div align=center><img src="img_Arq/img07.jpg"></div>
 
 # Objetos Docker
 
