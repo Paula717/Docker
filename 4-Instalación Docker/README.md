@@ -17,15 +17,15 @@ Lo primero que haremos sera activar la característica Hyper-V en nuestro Window
 
 Escribimos Caracteristicas de Windows.</cite>
 
-![instalacion](img_Instalacion/img01.png)
+<div align=center><img src="img_Instalacion/img01.png"></div>
 
 <cite style="display:block; text-align: justify"> Buscamos y marcamos la opción Hyper-V, pulsamos en Aceptar para realizar la instalación de la característica.</cite>
 
-![instalacion](img_Instalacion/img02.png)
+<div align=center><img src="img_Instalacion/img02.png"></div>
 
 <cite style="display:block; text-align: justify"> Una vez finalizada la instalación, reiniciamos nuestro equipo para que se guarden y se apliquen los cambios realizados. </cite>
 
-![instalacion](img_Instalacion/img03.png)
+<div align=center><img src="img_Instalacion/img03.png"></div>
 
 <cite style="display:block; text-align: justify"> Una vez activado Hyper-V y reiniciado el equipo el siguiente paso será descargar el instalador de Docker Desktop, para eso nos dirigimos a la pagina de [Docker Docs][1_0], la cual nos proporcionara un enlace directo para descargar [Docker Desktop en Windows][1_1].</cite>
 
@@ -33,51 +33,51 @@ Escribimos Caracteristicas de Windows.</cite>
 
 [1_1]:https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe
 
-![instalacion](img_Instalacion/img04.png)
+<div align=center><img src="img_Instalacion/img04.png"></div>
 
 <cite style="display:block; text-align: justify"> Una vez descargado el instalador, lo ejecutamos.</cite>
 
-![instalacion](img_Instalacion/img05.png)
+<div align=center><img src="img_Instalacion/img05.png"></div>
 
 <cite style="display:block; text-align: justify"> Lo dejamos como esta y le damos en "OK"</cite>
 
-![instalacion](img_Instalacion/img06.png)
+<div align=center><img src="img_Instalacion/img06.png"></div>
 
 <cite style="display:block; text-align: justify"> Comenzara con la descarga e instalación de los paquetes necesarios.</cite>
 
-![instalacion](img_Instalacion/img07.png)
+<div align=center><img src="img_Instalacion/img07.png"></div>
 
 <cite style="display:block; text-align: justify"> Pulsamos en Close and restart para reiniciar el ordenador y finalizar la instalación.</cite>
 
-![instalacion](img_Instalacion/img08.png)
+<div align=center><img src="img_Instalacion/img08.png"></div>
 
 <cite style="display:block; text-align: justify"> Una vez reiniciado el equipo veremos un nuevo icono en nuestro escritorio llamado Docker Desktop, hacemos doble clic en él para iniciar docker.</cite>
 
-![instalacion](img_Instalacion/img09.png)
+<div align=center><img src="img_Instalacion/img09.png"></div>
 
 <cite style="display:block; text-align: justify"> Nos aparecera esta ventana, le daremos en aceptar y se comenzara a ejecutar Docker.</cite>
 
-![instalacion](img_Instalacion/img10.png)
+<div align=center><img src="img_Instalacion/img10.png"></div>
 
 <cite style="display:block; text-align: justify"> Nos aparecerá un tutorial que podremos seguir (son 2 minutos) o bien pasarlo si ya sabemos algo de docker.</cite>
 
-![instalacion](img_Instalacion/img11.png)
+<div align=center><img src="img_Instalacion/img11.png"></div>
 
 <cite style="display:block; text-align: justify"> Una vez terminado el tutorial u omitirlo, nos aparecera esta ventana.
 
 Abriremos nuestra consola de Ubuntu y pararemos a copiar y pegar el comando que nos aparece para intentar correr un contenerdor y asi comprovar que la instalación se realizo de manera exitosa.  </cite>
 
-![instalacion](img_Instalacion/img12.png)
+<div align=center><img src="img_Instalacion/img12.png"></div>
 
 <cite style="display:block; text-align: justify"> Una vez ejecutamos el comando lo primero que nos aparecera sera que la imagen no se encuentra instalada de manera local.
 
 Y luego de eso pasara a descargarla.</cite>
 
-![instalacion](img_Instalacion/img13.png)
+<div align=center><img src="img_Instalacion/img13.png"></div>
 
 <cite style="display:block; text-align: justify"> Ya instalada la imagen podemos ver que en nuestro Docker ya esta instalada la imagen.</cite>
 
-![instalacion](img_Instalacion/img14.png)
+<div align=center><img src="img_Instalacion/img14.png"></div>
 
 <cite style="display:block; text-align: justify"> Ya tenemos nuestro Docker funcionando y listo para trabajar.</cite>
 
@@ -88,19 +88,19 @@ ________________________________________________________________________________
 
 [1_2]:https://hub.docker.com/
 
-![Docker](img_Instalacion/img15.png)
+<div align=center><img src="img_Instalacion/img15.png"></div>
 
 <cite style="display:block; text-align: justify"> Una vez creada la cuenta nos pedira que elijamos un plan para comenzar a trabajar con Docker, en nuestro caso elijiremos el plan "Personal".</cite>
 
-![Docker](img_Instalacion/img16.png)
+<div align=center><img src="img_Instalacion/img16.png"></div>
 
 <cite style="display:block; text-align: justify"> Con esto ya podemos buscar la imagen con la cual queremos trabajar.</cite>
 
-![Docker](img_Instalacion/img17.png)
+<div align=center><img src="img_Instalacion/img17.png"></div>
 
 <cite style="display:block; text-align: justify"> Ahora nos dirigimos a la parte superior donde esta una lupa para buscar la imagen que queramos instalar.</cite>
 
-![Docker](img_Instalacion/img18.png)
+<div align=center><img src="img_Instalacion/img18.png"></div>
 
 <cite style="display:block; text-align: justify"> En este caso vamos a instalar la imagen de httpd, damos click en ella y ahora para instalarla debemos iniciar nuestro terminal de Ubuntu, copiamos el codigo que tenemos arriba a la derecha en nuestra terminal de Ubuntu.</cite>
 
