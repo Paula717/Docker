@@ -17,7 +17,7 @@ Docker le proporciona una manera estándar de ejecutar su código. Docker es un 
 
 Los servicios de AWS como [AWS Fargate][1_1], [Amazon ECS][1_2], [Amazon EKS][1_3] y [AWS Batch][1_4] hacen que resulte sencillo ejecutar y administrar contenedores de Docker a escala.</cite>
 
-![Arquitectura DOCKER](img_Arq/img02.jpg) 
+<div align=center><img src="img_Arq/img02.jpg"></div>
 
 [1_1]:https://aws.amazon.com/es/fargate/
 [1_2]:https://aws.amazon.com/es/ecs/
@@ -69,7 +69,7 @@ El hecho de que el cliente se comunique con el servidor mediante el API hace que
 
 * <b>Interfaz de línea de comandos (CLI):</b> Es la línea de comandos representada por el comando docker. El cliente habla vía el API Rest para poder ejecutar los comandos. Es lo que utilizaremos para poder ir gestionando el ciclo de vida de nuestras imágenes y contenedores.</cite>
 
-![Arquitectura DOCKER](img_Arq/img06.jpg) 
+<div align=center><img src="img_Arq/img06.jpg"></div>
 
 # Cliente Docker
 
