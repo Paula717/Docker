@@ -102,7 +102,10 @@ ________________________________________________________________________________
 
 <div align=center><img src="img_Instalacion/img18.png"></div>
 
+
 <cite style="display:block; text-align: justify"> En este caso vamos a instalar la imagen de httpd, damos click en ella y ahora para instalarla debemos iniciar nuestro terminal de Ubuntu, copiamos el codigo que tenemos arriba a la derecha en nuestra terminal de Ubuntu.</cite>
+
+<div align=center><img src="img_Instalacion/img19.png"></div>
 
 ![Docker](img_Instalacion/img20.png)
 
