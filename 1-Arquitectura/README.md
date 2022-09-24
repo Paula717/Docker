@@ -6,7 +6,7 @@ Docker es una plataforma de software que le permite crear, probar e implementar 
 Docker empaqueta software en unidades estandarizadas llamadas [contenedores][1_0] que incluyen todo lo necesario para que el software se ejecute, incluidas bibliotecas, herramientas de sistema, código y tiempo de ejecución. Con Docker, puede implementar y ajustar la escala de aplicaciones rápidamente en cualquier entorno con la certeza de saber que su código se ejecutará.
 La ejecución de Docker en AWS les ofrece a desarrolladores y administradores una manera muy confiable y económica de crear, enviar y ejecutar aplicaciones distribuidas en cualquier escala.</cite>
 
-![Arquitectura DOCKER](img_Arq/img01.jpg) 
+<div align=center><img src="img_Arq/img01.jpg"></div> 
 
 [1_0]:https://aws.amazon.com/es/containers/
 
