@@ -2,7 +2,7 @@
 
 
 
-| # | Comandos | <text style = "display:block; text-align: center"> Descripcion
+| # | Comandos | <center> Descripcion </center>
 |-- |--:|--:|
 | 1 | <cite style="display:block; text-align: justify"> Docker Build | <cite style="display:block; text-align: justify">Docker Build es un comando de la plataforma Docker que se utiliza para la construcción de imágenes desatendidas. En otras palabras, aquella que se encarga de crear imágenes de Docker partiendo de un «contexto» y de un archivo de Dockerfile.</cite>|
 | 2 | <cite style="display:block; text-align: justify"> Docker run | <cite style="display:block; text-align: justify">EL comando docker run genera una instancia de una imagen. Una vez creada una instancia de la imagen se puede parar con docker stop y más tarde docker start reinicia. Esta instancia queda guardad en nuestro sistema para poder reutilizar.</cite>|
