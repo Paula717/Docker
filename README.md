@@ -1,4 +1,5 @@
-![Principal](img/img01.png)
+<div align=center><img src="img/img01.png"></div>
+
 # Realizado Por
 1. [Paula Andrea Cuellar Moreno][00]
 1. [Juan Camilo Cruz][01]
