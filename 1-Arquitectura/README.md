@@ -29,14 +29,14 @@ Los servicios de AWS como [AWS Fargate][1_1], [Amazon ECS][1_2], [Amazon EKS][1_
 <cite style="display:block; text-align: justify">
 Docker le permite entregar código con mayor rapidez, estandarizar las operaciones de las aplicaciones, transferir el código con facilidad y ahorrar dinero al mejorar el uso de recursos. Con Docker, obtiene un solo objeto que se puede ejecutar de manera fiable en cualquier lugar. La sintaxis sencilla y simple de Docker le aporta un control absoluto. La amplia adopción significa que existe un gran ecosistema de herramientas y aplicaciones listas para su uso que puede utilizar con Docker.</cite>
 
-![Arquitectura DOCKER](img_Arq/img03.jpg) 
+<div align=center><img src="img_Arq/img03.jpg"></div>
 
 # ¿Cuándo usar Docker?
 
 <cite style="display:block; text-align: justify">
 Puede utilizar los contenedores de Docker como bloque de construcción principal a la hora de crear aplicaciones y plataformas modernas. Docker facilita la creación y la ejecución de arquitecturas de microservicios distribuidos, la implementación de código con canalizaciones de integración y entrega continuas estandarizadas, la creación de sistemas de procesamiento de datos altamente escalables y la creación de plataformas completamente administradas para sus desarrolladores. La colaboración reciente entre AWS y Docker facilita la implementación de artefactos de Docker Compose en Amazon ECS y AWS Fargate. </cite>
 
-![Arquitectura DOCKER](img_Arq/img04.jpg) 
+<div align=center><img src="img_Arq/img04.jpg"></div> 
 
 # Traditional vs. New-Generation Virtualization
 
@@ -44,7 +44,7 @@ Puede utilizar los contenedores de Docker como bloque de construcción principal
 
 Ahora, en el caso del contenedor de la ventana acoplable, tiene un solo sistema operativo y los recursos se comparten entre los contenedores. Por lo tanto, es ligero y arranca en segundos.</cite>
 
-![Arquitectura DOCKER](img_Arq/img08.jpg)
+<div align=center><img src="img_Arq/img08.jpg"></div>
 
 
 
@@ -55,7 +55,7 @@ La arquitectura Docker es una arquitectura cliente-servidor, dónde el cliente h
 
 El hecho de que el cliente se comunique con el servidor mediante el API hace que el cliente y servidor puedan estar en la misma máquina comunicándose mediante sockets de UNIX o bien en máquinas diferentes comunicándose mediante un end-point en la red.</cite>
 
-![Arquitectura DOCKER](img_Arq/img05.jpg) 
+<div align=center><img src="img_Arq/img05.jpg"></div>
 
 <cite style="display:block; text-align: justify">Dentro de los elementos de la Arquitectura Docker encontramos dos, por un lado el elemento principal de la arquitectura Docker que es el <b>Docker Engine</b> y por otro el <b>Registro Docker.</b></cite>
 
